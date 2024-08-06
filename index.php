@@ -33,7 +33,7 @@
         <meta property="og:description" content="Dapatkan wawasan mendalam tentang teknik inovatif Bang Udin untuk mengalahkan Scatter Wild di Mahjong Ways 2. Optimalkan permainan slot Anda dengan strategi jitu yang efektif dan terbukti.">
         <meta property="og:url" content="https://polagacor.koyeb.app/">
         <meta property="og:site_name" content="PERIHOKI" />
-        <meta property="article:modified_time" content="2024-08-04T12:04:54+00:00" />
+        <meta property="article:modified_time" content="2024-08-06T08:04:00+00:00" />
         <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA1fiHcv40bXszmLrvfQEDHwoV4ewk6WP5PSHdLCuYPULd52OOJF9aXxqwAUHu6UQtau3Nzr5w7ayZFLwPUFhKo9eKPBb3PqW302M2BMAgtaHJ24299FnL3W-cX7NbVa5CjdjREGmMS4cP7MkuqKJWu4x170QfcXtyaYAojcXN1wAOpZ-ggcwcNVae20zh/s1280/mahjong%20(1)-min.webp">
         <meta property="og:image:type" content="image/jpg" />
         <!-- Twitter -->
@@ -62,8 +62,8 @@
                "@type": "ImageObject",
                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA1fiHcv40bXszmLrvfQEDHwoV4ewk6WP5PSHdLCuYPULd52OOJF9aXxqwAUHu6UQtau3Nzr5w7ayZFLwPUFhKo9eKPBb3PqW302M2BMAgtaHJ24299FnL3W-cX7NbVa5CjdjREGmMS4cP7MkuqKJWu4x170QfcXtyaYAojcXN1wAOpZ-ggcwcNVae20zh/s1280/mahjong%20(1)-min.webp"
              },
-             "datePublished": "2024-08-04T12:04:54+00:00",
-             "dateModified": "2024-08-04T12:04:54+00:000",
+             "datePublished": "2024-08-06T08:04:00+00:00",
+             "dateModified": "2024-08-06T08:04:00+00:00",
              "author": {
                 "@type":"Person",
                 "name": "PERIHOKI",
